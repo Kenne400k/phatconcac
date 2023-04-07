@@ -1,5 +1,5 @@
 {
-    "name": "Ryo",
+    "name": "Phatconcac",
     "version": "1.2.14",
     "description": "Mua File Bot Liên Hệ Facebook !!",
     "main": "mirai.js",
@@ -10,7 +10,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/D-Jukie/miraiv2.git"
+        "url": "git+https://github.com/Kenne400k/phatconcac.git"
     },
     "author": "D-Jukie",
     "license": "GPL-3.0",
